@@ -1,3 +1,17 @@
+# Reproducible Research - Course Project 1 Submission
+
+This is my submission for the for the assignment. 
+
+The files in this repo are:
+
+* The R Markdown document [PA1_template.Rmd](PA1_template.Rmd), containing the R code and written explanationsThe same document, in Markdown format [PA1_template.md](PA1_template.md), and the HTML version [PA1_template.html](PA1_template.html).
+* The [???figure???](figure) folder contains all of the graphs created in the markdown document.
+* The dataset used within the assignment has the file name [???activity.zip???](activity.zip).
+* Image files for rendering the html version of the markdown file: [PA1_template_files](PA1_template_files).
+
+Below is the original README file, from the original repo, with information on the raw data set and the course assignment.
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
